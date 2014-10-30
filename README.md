@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-![](VideoClub.png)
-=======
 VideoClub
 =========
 
